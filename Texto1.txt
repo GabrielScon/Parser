@@ -1,0 +1,4 @@
+3
+(\lnot(\lnot x2))
+(\lnot \wedge y1)
+(y1 \leftrightarrow x2)

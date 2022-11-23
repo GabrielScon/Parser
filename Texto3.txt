@@ -1,0 +1,4 @@
+3
+(\lnot(\lnot x2) (\lnot y8))
+(\lnot \wedge y1 \ lnot \ wedge x3)
+(y1 \rightarrow x2)

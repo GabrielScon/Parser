@@ -1,0 +1,4 @@
+3
+(\wedge x8 y4)
+(\lnot x7)
+(\lnot y1)
